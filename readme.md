@@ -1,3 +1,5 @@
-This Autothotkey script will make sure the NumLock key is always on
+# NumLock Always On AutoHotkey Script
 
-Install Autohotkey V2 to make this script run
+This AutoHotkey script ensures that the NumLock key is always on.
+
+**Requirement:** Install [AutoHotkey v2](https://www.autohotkey.com/) to run this script.
